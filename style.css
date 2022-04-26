@@ -1,0 +1,195 @@
+
+body {
+	margin: 0;
+	padding: 0;
+}
+.sebelahkiri {
+	position: fixed;
+	width: 400px;
+	height: 100vh;
+	background-color: #FA8250;
+}
+.foto {
+	width: 50%;
+	border-radius: 50%;
+}
+.fotokontak {
+	position: absolute;
+	top: 100px;
+	text-align: center;
+}
+.contactbutton{
+	width: 50%;
+	background-color: #3747FA;
+	border-radius: 14px;
+	margin-bottom: 14px;
+	font-size: 1.1rem;
+	font-weight: bold;
+	padding: 10px;
+	color: white;
+}
+.contactbutton:hover{
+	background-color: black;
+	color: aqua;
+	transition: 1s;
+}
+.sebelahkanan {
+	position: absolute;
+	left: 400px;
+}
+.bagianatas {
+	padding-top: 50px;
+	padding-left: 100px;
+
+}
+.judul {
+	font-style: italic;
+	font-size: 1.3rem;
+}
+a {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+.listmenu {
+	float: right;
+	padding-left: 370px;
+}
+
+.menu {
+	font-size: 1.1rem;
+	font-weight: bold;
+	padding: 0 15px;
+	
+	
+}
+#profile {
+	padding-top: 100px;
+	padding-left: 100px;
+	
+}
+#cv {
+	padding-top: 500px;
+	padding-left: 100px;
+}
+.line2 {
+	padding-left: 10px;
+}
+.tabel {
+	font-size: 1.1rem;
+}
+.line3 {
+	padding-left: 20px;
+}
+.jarak {
+	padding-top: 200px;
+}
+#pengalaman {
+	padding-left: 100px;
+	padding-top: 200px;
+	font-size: 1.1rem;
+}
+.padding {
+	padding-bottom: 10px;
+}
+#minathobi {
+	padding-left: 100px;
+	padding-top: 200px;
+	font-size: 1.1rem;
+}
+#skill {
+	padding-left: 100px;
+	padding-top: 200px;
+	font-size: 1.1rem;
+}
+.spasi {
+	padding-top: 10px;
+}
+.spasi1 {
+	padding-top: 30px;
+}
+.progress {
+	position: relative;
+	width: 210px;
+	height: 30px;
+	background: #4FAD1D;
+	border-radius: 5px;
+	overflow: hidden;
+}
+.progress_fiil {
+	width: 40%;
+	height: 100%;
+	background: #69FA1E;
+}
+.progress_fiil_1{
+	width: 45%;
+	height: 100%;
+	background: #69FA1E;
+}
+.progress_fiil_2{
+	width: 40%;
+	height: 100%;
+	background: #69FA1E;
+}
+.progress_fiil_3{
+	width: 65%;
+	height: 100%;
+	background: #69FA1E;
+}
+.progress_fiil_4{
+	width: 55%;
+	height: 100%;
+	background: #69FA1E;
+}
+.progress_fiil_5{
+	width: 50%;
+	height: 100%;
+	background: #69FA1E;
+}
+.progress_fiil_6{
+	width: 90%;
+	height: 100%;
+	background: #69FA1E;
+}
+
+
+.progress_fiil_7{
+	width: 35%;
+	height: 100%;
+	background: #69FA1E;
+}
+.progress_fiil_8{
+	width: 40%;
+	height: 100%;
+	background: #69FA1E;
+}
+.progress_fiil_9{
+	width: 35%;
+	height: 100%;
+	background: #69FA1E;
+}
+
+
+.progress_text {
+	position: absolute;
+	top: 50%;
+	right: 5px;
+	transform: translateY(-50%);
+	font: bold 14px 'Quicksand', sans-serif;
+	color: white;
+}
+#contact {
+	padding-left: 100px;
+	padding-top: 200px;
+	font-size: 1.1rem;
+}
+.warna {
+	font-family: Quicksand sans-serif;
+}
+#footer {
+	padding-top: 250px;
+	text-align: center;
+}
+p, li, tr {
+	line-height: 200%;
+}
